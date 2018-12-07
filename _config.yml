@@ -13,8 +13,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.fox.one/blog/
-root: /blog/
+url: https://www.fox.one/blog-zh/
+root: /blog-zh/
 permalink: :title/
 permalink_defaults:
 
