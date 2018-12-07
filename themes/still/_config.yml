@@ -1,0 +1,13 @@
+menu:
+    "博客": /
+    "应用": https://www.fox.one
+    "开放平台": https://open.fox.one
+    "文章归档": /archives/
+
+title: Fox.ONE 博客
+description: Fox.ONE 团队博客
+
+favicon: /favicon-64.png
+
+# Copyright Infomation
+startyear: 2017
